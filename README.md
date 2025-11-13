@@ -1,6 +1,6 @@
 # profile
 # 💫 About Me:
-Hi 🫶🏻, I‘m Suphatsara Hongchan but you can call me Lily.<br>📚 Currently studying in Computer department of KOSEN KMITLl.<br>🌱 I’m a beginner learning Python and exploring programming basics.<br>💻 Eager to learn new things and create fun, useful projects.<br>🎧 Fun fact : I‘m into pop & r&b vibes.<br>🏁Goal is to keep improving every day.
+Hi 🫶🏻, I‘m Suphatsara Hongchan but you can call me Lily.<br>📚 Currently studying in Computer department of KOSEN KMITL.<br>🌱 I’m a beginner learning Python and exploring programming basics.<br>💻 Eager to learn new things and create fun, useful projects.<br>🎧 Fun fact : I‘m into pop & r&b vibes.<br>🏁Goal is to keep improving every day.
 
 
 ## 🌐 Socials:
